@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP1 Segurança</string>
+    <string name="descr_perm">Permissão para visualizar a lista dos arquivos de localização marcados pelo app tp1</string>
+    <string name="label_perm">Permissão lista tp1</string>
+</resources>

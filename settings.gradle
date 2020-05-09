@@ -1,0 +1,2 @@
+rootProject.name='SegTp1'
+include ':app'
